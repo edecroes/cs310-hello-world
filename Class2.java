@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Emily DeCroes
  */
 
 public class Class2 {
